@@ -17,10 +17,9 @@ English | [中文](./README_zh.md)
 ## About Goravel
 
 Goravel is a web application framework with complete functions and good scalability. As a starting scaffolding to help
-Gopher quickly build their own applications.
+Gophers quickly build their own applications.
 
-The framework style is consistent with [Laravel](https://github.com/laravel/laravel), let Php developer don't need to learn a
-new framework, but also happy to play around Golang! In tribute to Laravel!
+The framework style is consistent with [Laravel](https://github.com/laravel/laravel), so that Php developers don't need to learn a new framework, and get to play around Golang! A tribute to Laravel!
 
 Welcome to star, PR and issues！
 
@@ -99,6 +98,12 @@ This project exists thanks to all the people who contribute, to participate in t
 <a href="https://github.com/livghit" target="_blank"><img src="https://avatars.githubusercontent.com/u/108449432?v=4" width="48" height="48"></a>
 <a href="https://github.com/jeff87218" target="_blank"><img src="https://avatars.githubusercontent.com/u/29706585?v=4" width="48" height="48"></a>
 <a href="https://github.com/shayan-yousefi" target="_blank"><img src="https://avatars.githubusercontent.com/u/19957980?v=4" width="48" height="48"></a>
+<a href="https://github.com/zxdstyle" target="_blank"><img src="https://avatars.githubusercontent.com/u/38398954?v=4" width="48" height="48"></a>
+<a href="https://github.com/milwad-dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/98118400?v=4" width="48" height="48"></a>
+<a href="https://github.com/mdanialr" target="_blank"><img src="https://avatars.githubusercontent.com/u/48054961?v=4" width="48" height="48"></a>
+<a href="https://github.com/KlassnayaAfrodita" target="_blank"><img src="https://avatars.githubusercontent.com/u/113383200?v=4" width="48" height="48"></a>
+<a href="https://github.com/YlanzinhoY" target="_blank"><img src="https://avatars.githubusercontent.com/u/102574758?v=4" width="48" height="48"></a>
+<a href="https://github.com/almas1992" target="_blank"><img src="https://avatars.githubusercontent.com/u/9382335?v=4" width="48" height="48"></a>
 
 ## Sponsor
 
@@ -108,11 +113,9 @@ Better development of the project is inseparable from your support, reward us by
 
 ## Group
 
-Welcome more discussion in Telegram.
+Welcome more discussion in Discord.
 
-[https://t.me/goravel](https://t.me/goravel)
-
-<p align="left"><img src="https://www.goravel.dev/telegram.jpg?v=1.14.x" width="200"></p>
+[https://discord.gg/cFc5csczzS](https://discord.gg/cFc5csczzS)
 
 ## License
 
